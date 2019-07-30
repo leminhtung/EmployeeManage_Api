@@ -1,0 +1,132 @@
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EmployeeManage.DAO.dll.config
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EmployeeManage.DAO.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EmployeeManage.DAO.pdb
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csc.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csc.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csc.rsp
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csi.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csi.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csi.rsp
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.AppContext.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Collections.Immutable.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Console.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.Compression.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.FileSystem.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.Pipes.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Reflection.Metadata.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.AccessControl.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Claims.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.ValueTuple.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.XPath.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\vbc.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\vbc.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\vbc.rsp
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\VBCSCompiler.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\VBCSCompiler.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.SqlServer.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\HomeBi.Libraries.PagedList.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.Mvc.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.SqlServer.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\HomeBi.Libraries.PagedList.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.Mvc.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.csprojAssemblyReference.cache
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.csproj.CoreCompileInputs.cache
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.csproj.CopyComplete
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.pdb
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EmployeeManage.DAO.dll.config
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EmployeeManage.DAO.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EmployeeManage.DAO.pdb
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csc.exe
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csc.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csc.rsp
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csi.exe
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csi.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\csi.rsp
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.AppContext.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Console.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.Compression.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.IO.Pipes.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.AccessControl.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Claims.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.ValueTuple.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.XPath.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\vbc.exe
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\vbc.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\vbc.rsp
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.SqlServer.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\HomeBi.Libraries.PagedList.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.Mvc.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.xml
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.SqlServer.xml
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\HomeBi.Libraries.PagedList.xml
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.xml
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.Mvc.xml
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.csprojAssemblyReference.cache
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.csproj.CoreCompileInputs.cache
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.csproj.CopyComplete
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.dll
+D:\HocTap\EmployeeManagerProject\EmployeeManage.DAO\obj\Release\EmployeeManage.DAO.pdb

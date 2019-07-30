@@ -1,0 +1,48 @@
+﻿@model IEnumerable<EmployeeManage.DAO.User>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr class="header">
+        <th>User ID</th>
+        <th>Username</th>
+        <th>PhoneNumber</th>
+        <th>Email</th>
+    </tr>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.UserId</td>
+                <td>@item.Username</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.Email</td>
+                <td>
+                    <a href="/Admin/User/Edit/@item.UserId">Sửa</a>
+                    |
+                    <a href="@Url.Action("Delete", "User", new { id = item.UserId })" onclick="return confirm('Bạn có muốn xóa nhân viên?')">Xóa Nhân Viên</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    @*@foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }*@
+
+</table>

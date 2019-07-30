@@ -1,0 +1,196 @@
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.dll.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.pdb
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csc.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csc.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csc.rsp
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csi.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csi.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csi.rsp
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.AppContext.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Collections.Immutable.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Console.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.Compression.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.FileSystem.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.Pipes.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.AccessControl.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Claims.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.ValueTuple.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.XPath.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\vbc.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\vbc.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\vbc.rsp
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\VBCSCompiler.exe
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\VBCSCompiler.exe.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Antlr3.Runtime.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.DAO.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.Web.Infrastructure.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Net.Http.Formatting.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Helpers.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.WebHost.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Mvc.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Optimization.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Razor.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Deployment.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Razor.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\WebGrease.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.DAO.pdb
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.DAO.dll.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.pdb
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll.config
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Net.Http.Formatting.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Helpers.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.WebHost.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Mvc.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Optimization.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Razor.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Deployment.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Razor.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Antlr3.Runtime.pdb
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csprojAssemblyReference.cache
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CoreCompileInputs.cache
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CopyComplete
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.pdb
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\HomeBi.Libraries.PagedList.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.Mvc.dll
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\HomeBi.Libraries.PagedList.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.xml
+D:\Học Tập\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.Mvc.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.dll.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.pdb
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csc.exe
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csc.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csc.rsp
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csi.exe
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csi.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\csi.rsp
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.AppContext.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Console.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.Compression.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.IO.Pipes.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.AccessControl.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Claims.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.ValueTuple.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.XPath.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\vbc.exe
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\vbc.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\vbc.rsp
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Antlr3.Runtime.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.DAO.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\HomeBi.Libraries.PagedList.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.Mvc.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Net.Http.Formatting.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Helpers.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.WebHost.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Mvc.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Optimization.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Razor.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\WebGrease.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.DAO.pdb
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.DAO.dll.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.pdb
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll.config
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\HomeBi.Libraries.PagedList.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.Mvc.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Net.Http.Formatting.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Helpers.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.WebHost.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Mvc.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Optimization.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Razor.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Antlr3.Runtime.pdb
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csprojAssemblyReference.cache
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CoreCompileInputs.cache
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CopyComplete
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.dll
+D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.pdb
