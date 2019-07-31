@@ -29,14 +29,14 @@ namespace EmployeeManage.Data.Service
 
             //return userdao.ListAllpaging(searchString, page,pageSize);
         }
-        //public bool Login(string Adminid, string Password)
-        //{
-        //    var dao = new UserDao();
-        //    var user = dao.GetById();
-        //    var adminSesion = new EmployeeManage.DAO.Admin();
-        //    adminSesion.AdminId = user.;
-        //    return dao.Login(Adminid, Password);
-        //}
+        public bool Login(string Adminid, string Password)
+        {
+            var dao = new UserDao();
+            var user = dao.GetById();
+            var adminSesion = new EmployeeManage.DAO.Admin();
+            adminSesion.AdminId = user.;
+            return dao.Login(Adminid, Password);
+        }
         public Admin GetById(string adminID)
         {
             UserDao userDao = new UserDao();
