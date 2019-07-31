@@ -14,7 +14,6 @@ namespace EmployeeManage.DAO.DAO
         }
         public IEnumerable<User> ListAllpaging(string searchString, int page, int pageSize)
         {
-
             IQueryable<User> model = db.Users;
             if (!string.IsNullOrEmpty(searchString))
             {

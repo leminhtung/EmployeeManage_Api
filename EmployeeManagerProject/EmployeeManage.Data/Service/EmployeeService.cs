@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web.ModelBinding;
 using EmployeeManage.DAO;
 using EmployeeManage.DAO.DAO;
 
@@ -31,11 +30,8 @@ namespace EmployeeManage.Data.Service
         }
         public bool Login(string Adminid, string Password)
         {
-            var dao = new UserDao();
-            var user = dao.GetById();
-            var adminSesion = new EmployeeManage.DAO.Admin();
-            adminSesion.AdminId = user.;
-            return dao.Login(Adminid, Password);
+            UserDao userdao = new UserDao();
+            return userdao.Login(Adminid, Password);
         }
         public Admin GetById(string adminID)
         {

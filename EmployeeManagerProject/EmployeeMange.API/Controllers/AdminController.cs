@@ -1,5 +1,7 @@
 ﻿using EmployeeManage.DAO;
 using EmployeeManage.Data.Service;
+using EmployeeMange.API.Common;
+using System;
 using System.Web.Http;
 using System.Web.Http.Description;
 
@@ -9,7 +11,7 @@ namespace EmployeeMange.API.Controllers
     {
         EmployeeContext db = new EmployeeContext();
         private EmployeeService employeeService = new EmployeeService();
-
+        [Route("insert")]
         public long Insert(User entity)
         {
             return employeeService.Insert(entity);
@@ -29,5 +31,17 @@ namespace EmployeeMange.API.Controllers
         {
             return employeeService.Update(entity);
         }
+        [HttpPost]
+        public bool Login([FromBody] LoginViewModel model)
+        {
+           return employeeService.Login(model.AdminId, model.Password);
+        }
+    }
+
+    public class LoginViewModel
+    {
+        public string AdminId { get; set; }
+
+        public string Password { get; set; }
     }
 }
