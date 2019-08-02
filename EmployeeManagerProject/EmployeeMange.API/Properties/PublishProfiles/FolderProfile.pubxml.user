@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\HocTap\publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\tunglm2\Desktop\www\EmployeeManage.com</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
@@ -79,28 +79,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/EmployeeManage.DAO.dll">
-      <publishTime>07/26/2019 15:19:29</publishTime>
+      <publishTime>08/02/2019 15:35:28</publishTime>
     </File>
     <File Include="bin/EmployeeManage.DAO.dll.config">
       <publishTime>07/25/2019 14:07:23</publishTime>
     </File>
     <File Include="bin/EmployeeManage.DAO.pdb">
-      <publishTime>07/26/2019 15:19:29</publishTime>
+      <publishTime>08/02/2019 15:35:28</publishTime>
     </File>
     <File Include="bin/EmployeeManage.Data.dll">
-      <publishTime>07/26/2019 15:19:29</publishTime>
+      <publishTime>08/02/2019 15:35:28</publishTime>
     </File>
     <File Include="bin/EmployeeManage.Data.dll.config">
       <publishTime>07/25/2019 14:32:26</publishTime>
     </File>
     <File Include="bin/EmployeeManage.Data.pdb">
-      <publishTime>07/26/2019 15:19:29</publishTime>
+      <publishTime>08/02/2019 15:35:28</publishTime>
     </File>
     <File Include="bin/EmployeeMange.API.dll">
-      <publishTime>07/26/2019 15:19:30</publishTime>
+      <publishTime>08/02/2019 15:35:29</publishTime>
     </File>
     <File Include="bin/EmployeeMange.API.pdb">
-      <publishTime>07/26/2019 15:19:30</publishTime>
+      <publishTime>08/02/2019 15:35:29</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>07/13/2019 16:30:18</publishTime>
@@ -397,7 +397,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/25/2019 10:28:23</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/26/2019 15:19:30</publishTime>
+      <publishTime>08/02/2019 11:46:24</publishTime>
     </File>
   </ItemGroup>
 </Project>
