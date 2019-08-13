@@ -21,6 +21,7 @@ namespace EmployeeMange.API.Controllers
         {
             return employeeService.Delete(id);
         }
+
         public Admin GetById(string adminID)
         {
             return employeeService.GetById(adminID);

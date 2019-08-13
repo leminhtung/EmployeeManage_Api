@@ -11,15 +11,21 @@ namespace EmployeeMange.API.Controllers
         EmployeeContext db = new EmployeeContext();
         private EmployeeService employeeService = new EmployeeService();
 
-        public IEnumerable<User> Get()
+        //[HttpGet]
+        //public IEnumerable<User> GetUser()
+        //{
+        //    return new List<User>();
+        //}
+
+        [HttpGet]
+        public IEnumerable<User> GetUser()
         {
             return employeeService.GetUser();
         }
-
-        public IEnumerable<User> GetAllPaging(string searchString, int page, int pageSize)
-        {
-            return employeeService.ListAllpaging(searchString, page, pageSize);
-        }
+        //public IEnumerable<User> GetAllPaging(string searchString, int page = 1, int pageSize = 10)
+        //{
+        //    return employeeService.ListAllpaging(searchString, page, pageSize);
+        //}
 
         [HttpGet]
         [Route("viewdetail")]

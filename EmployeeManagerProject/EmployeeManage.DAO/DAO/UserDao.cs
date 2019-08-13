@@ -8,19 +8,31 @@ namespace EmployeeManage.DAO.DAO
     public class UserDao
     {
         EmployeeContext db = null;
+        string searchString;
+        int page;
+        int pageSize;
         public UserDao()
         {
             db = new EmployeeContext();
         }
-        public IEnumerable<User> ListAllpaging(string searchString, int page, int pageSize)
+        public List<User> GetUser()
         {
             IQueryable<User> model = db.Users;
             if (!string.IsNullOrEmpty(searchString))
             {
                 model = model.Where(x => x.Username.Contains(searchString));
             }
-            return model.OrderByDescending(x => x.UserId).ToPagedList(page, pageSize);
+            return model.OrderByDescending(x => x.UserId).ToList();
         }
+        //public IEnumerable<User> ListAllpaging(string searchString, int page, int pageSize)
+        //{
+        //    IQueryable<User> model = db.Users;
+        //    if (!string.IsNullOrEmpty(searchString))
+        //    {
+        //        model = model.Where(x => x.Username.Contains(searchString));
+        //    }
+        //    return model.OrderByDescending(x => x.UserId).ToPagedList(page, pageSize);
+        //}
         public Admin GetById(string adminID)
         {
             return db.Admins.SingleOrDefault(x => x.AdminId == adminID);
@@ -41,12 +53,6 @@ namespace EmployeeManage.DAO.DAO
                 return false;
             }
         }
-
-        public object GetById()
-        {
-            throw new NotImplementedException();
-        }
-
         public long Insert(User entity)
         {
             db.Users.Add(entity);
