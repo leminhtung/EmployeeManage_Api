@@ -2,13 +2,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 
 namespace EmployeeManage.Data.Service
 {
     public interface IEmployeeService
-    {  
-        List<User> GetUser();
-        User GetUser(int id);
+    {
+        IEnumerable<User> GetUser(string searchString, int page, int pageSize);
     }
 }

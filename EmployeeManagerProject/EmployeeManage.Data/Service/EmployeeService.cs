@@ -6,7 +6,7 @@ using EmployeeManage.DAO.DAO;
 
 namespace EmployeeManage.Data.Service
 {
-    public class EmployeeService //: IEmployeeService
+    public class EmployeeService : IEmployeeService
     {
         private EmployeeContext db = new EmployeeContext();
 
@@ -51,5 +51,7 @@ namespace EmployeeManage.Data.Service
             var dao = new UserDao();
             return dao.Update(entity);
         }
+
+       
     }
 }
