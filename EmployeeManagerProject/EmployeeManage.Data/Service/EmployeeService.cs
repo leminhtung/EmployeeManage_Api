@@ -10,17 +10,11 @@ namespace EmployeeManage.Data.Service
     {
         private EmployeeContext db = new EmployeeContext();
 
-        public List<User> GetUser()
+        public IEnumerable<User> GetUser(string searchString, int page, int pageSize)
         {
             UserDao userdao = new UserDao();
-            return userdao.GetUser();
+            return userdao.GetUser(searchString, page, pageSize);
         }
-
-        //public IEnumerable<User> ListAllpaging(string searchString, int page, int pageSize)
-        //{
-        //    UserDao userdao = new UserDao();
-        //    return userdao.ListAllpaging(searchString, page, pageSize);
-        //}
 
         public bool Login(string Adminid, string Password)
         {

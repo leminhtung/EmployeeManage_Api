@@ -1,5 +1,4 @@
-﻿using PagedList;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -7,40 +6,32 @@ namespace EmployeeManage.DAO.DAO
 {
     public class UserDao
     {
-        EmployeeContext db = null;
-        string searchString;
-        int page;
-        int pageSize;
+        private EmployeeContext db = null;
+
         public UserDao()
         {
             db = new EmployeeContext();
         }
-        public List<User> GetUser()
+        public IEnumerable<User> GetUser(string searchString, int page, int pageSize)
         {
-            IQueryable<User> model = db.Users;
-            if (!string.IsNullOrEmpty(searchString))
+            IQueryable<User> model = db.Users; // lấy toàn bộ liên kết
+            if (!string.IsNullOrEmpty(searchString)) // kiểm tra chuỗi tìm kiếm có rỗng/null hay không
             {
-                model = model.Where(x => x.Username.Contains(searchString));
+                model = model.Where(x => x.Username.Contains(searchString)); //lọc theo chuỗi tìm kiếm
             }
-            return model.OrderByDescending(x => x.UserId).ToList();
+            return model.OrderByDescending(x => x.UserId).ToList(); //Chú Ý
         }
-        //public IEnumerable<User> ListAllpaging(string searchString, int page, int pageSize)
-        //{
-        //    IQueryable<User> model = db.Users;
-        //    if (!string.IsNullOrEmpty(searchString))
-        //    {
-        //        model = model.Where(x => x.Username.Contains(searchString));
-        //    }
-        //    return model.OrderByDescending(x => x.UserId).ToPagedList(page, pageSize);
-        //}
+
         public Admin GetById(string adminID)
         {
             return db.Admins.SingleOrDefault(x => x.AdminId == adminID);
         }
+
         public User ViewDetail(int id)
         {
             return db.Users.Find(id);
         }
+
         public bool Login(string Adminid, string Password)
         {
             var result = db.Admins.Count(x => x.AdminId == Adminid && x.Password == Password);
@@ -53,12 +44,14 @@ namespace EmployeeManage.DAO.DAO
                 return false;
             }
         }
+
         public long Insert(User entity)
         {
             db.Users.Add(entity);
             db.SaveChanges();
             return entity.UserId;
         }
+
         public bool Delete(int id)
         {
             try
@@ -73,6 +66,7 @@ namespace EmployeeManage.DAO.DAO
                 return false;
             }
         }
+
         public bool Update(User entity)
         {
             try

@@ -252,7 +252,6 @@ C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.dll
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\HomeBi.Libraries.PagedList.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.dll
@@ -275,7 +274,6 @@ C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll.config
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.xml
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\HomeBi.Libraries.PagedList.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.Mvc.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.xml

@@ -8,24 +8,20 @@ namespace EmployeeMange.API.Controllers
     [RoutePrefix("api/user")]
     public class UserController : ApiController
     {
-        EmployeeContext db = new EmployeeContext();
+        private EmployeeContext db = new EmployeeContext();
         private EmployeeService employeeService = new EmployeeService();
-
-        //[HttpGet]
-        //public IEnumerable<User> GetUser()
-        //{
-        //    return new List<User>();
-        //}
 
         [HttpGet]
         public IEnumerable<User> GetUser()
         {
-            return employeeService.GetUser();
+            return new List<User>();
         }
-        //public IEnumerable<User> GetAllPaging(string searchString, int page = 1, int pageSize = 10)
-        //{
-        //    return employeeService.ListAllpaging(searchString, page, pageSize);
-        //}
+
+        [HttpGet]
+        public IEnumerable<User> GetUser(string searchString, int page, int pageSize)
+        {
+            return employeeService.GetUser(searchString, page, pageSize);
+        }
 
         [HttpGet]
         [Route("viewdetail")]

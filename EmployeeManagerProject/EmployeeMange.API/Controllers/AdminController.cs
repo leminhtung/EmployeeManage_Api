@@ -7,11 +7,13 @@ using System.Web.Http.Description;
 
 namespace EmployeeMange.API.Controllers
 {
+    [RoutePrefix("api/admin")]
     public class AdminController : ApiController
     {
         EmployeeContext db = new EmployeeContext();
         private EmployeeService employeeService = new EmployeeService();
         [Route("insert")]
+        [HttpPost]
         public long Insert(User entity)
         {
             return employeeService.Insert(entity);

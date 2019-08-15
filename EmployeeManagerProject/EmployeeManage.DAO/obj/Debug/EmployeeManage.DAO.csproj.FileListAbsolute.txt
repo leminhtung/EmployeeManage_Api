@@ -181,13 +181,11 @@ C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManag
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.SqlServer.dll
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\HomeBi.Libraries.PagedList.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.Mvc.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\EntityFramework.SqlServer.xml
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\HomeBi.Libraries.PagedList.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\PagedList.Mvc.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeManage.DAO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

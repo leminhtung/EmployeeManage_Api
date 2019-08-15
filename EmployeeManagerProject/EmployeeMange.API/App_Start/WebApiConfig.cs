@@ -20,11 +20,11 @@ namespace EmployeeMange.API
                 defaults: new { id = RouteParameter.Optional }
             );
 
-            //config.Routes.MapHttpRoute(
-            //    name: "UserApi",
-            //    routeTemplate: "api/{controller}/{searchString}/{page}/{pageSize}",
-            //    defaults: new { id = RouteParameter.Optional }
-            //);
+            config.Routes.MapHttpRoute(
+                name: "UserApi",
+                routeTemplate: "api/{controller}/{searchString}/{page}/{pageSize}",
+                defaults: new { id = RouteParameter.Optional }
+            );
         }
     }
 }
