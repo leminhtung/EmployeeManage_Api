@@ -17,7 +17,7 @@ namespace EmployeeManage.DAO.DAO
             IQueryable<User> model = db.Users; // lấy toàn bộ liên kết
             if (!string.IsNullOrEmpty(searchString)) // kiểm tra chuỗi tìm kiếm có rỗng/null hay không
             {
-                model = model.Where(x => x.Username.Contains(searchString)); //lọc theo chuỗi tìm kiếm
+                model = model.Where(x => x.Username.Contains(searchString/*, comparer: new IEqualityComparer*/)); //lọc theo chuỗi tìm kiếm
             }
             return model.OrderByDescending(x => x.UserId).ToList(); //Chú Ý
         }
