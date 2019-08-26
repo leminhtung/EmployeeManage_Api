@@ -194,10 +194,8 @@ D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.c
 D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CopyComplete
 D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.dll
 D:\HocTap\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.pdb
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csprojAssemblyReference.cache
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CoreCompileInputs.cache
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.dll
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.pdb
+C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.xml
+C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.dll.config
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.dll
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeMange.API.pdb
@@ -273,10 +271,8 @@ C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.pdb
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EmployeeManage.Data.dll.config
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.xml
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\EntityFramework.SqlServer.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\PagedList.Mvc.xml
-C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Newtonsoft.Json.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\System.Net.Http.Formatting.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Helpers.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.Http.xml
@@ -289,4 +285,8 @@ C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\System.Web.WebPages.Razor.xml
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Antlr3.Runtime.pdb
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csprojAssemblyReference.cache
+C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CoreCompileInputs.cache
 C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.csproj.CopyComplete
+C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.dll
+C:\Users\tunglm2\Desktop\EmployeeManage_Api\EmployeeManagerProject\EmployeeMange.API\obj\Debug\EmployeeMange.API.pdb

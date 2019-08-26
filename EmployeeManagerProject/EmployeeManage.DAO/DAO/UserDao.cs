@@ -22,6 +22,12 @@ namespace EmployeeManage.DAO.DAO
             return model.OrderByDescending(x => x.UserId).ToList(); //Chú Ý
         }
 
+
+        public IEnumerable<User> GetUserAll()
+        {
+            IQueryable<User> model = db.Users; // lấy toàn bộ liên kết
+            return model.OrderByDescending(x => x.UserId).ToList(); //Chú Ý
+        }
         public Admin GetById(string adminID)
         {
             return db.Admins.SingleOrDefault(x => x.AdminId == adminID);

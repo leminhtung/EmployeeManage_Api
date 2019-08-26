@@ -49,5 +49,11 @@ namespace EmployeeManage.Data.Service
             var dao = new UserDao();
             return dao.Update(entity);
         }
+
+        public IEnumerable<User> GetUserAll()
+        {
+            var dao = new UserDao();
+            return dao.GetUserAll();
+        }
     }
 }

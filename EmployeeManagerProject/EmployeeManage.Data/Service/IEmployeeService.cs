@@ -11,6 +11,8 @@ namespace EmployeeManage.Data.Service
     {
         IEnumerable<User> GetUser(string searchString, int page, int pageSize);
 
+        IEnumerable<User> GetUserAll();
+
         bool Login(string Adminid, string Password);
 
         long Insert(User entity);
@@ -22,5 +24,6 @@ namespace EmployeeManage.Data.Service
         User ViewDetail(int id);
 
         Admin GetById(string adminID);
+
     }
 }
