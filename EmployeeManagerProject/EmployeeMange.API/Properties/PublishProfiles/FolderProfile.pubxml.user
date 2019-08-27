@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\tunglm2\Desktop\www\EmployeeManage.com</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\Publish\API</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
@@ -79,28 +79,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/EmployeeManage.DAO.dll">
-      <publishTime>08/02/2019 15:35:28</publishTime>
+      <publishTime>08/27/2019 16:10:50</publishTime>
     </File>
     <File Include="bin/EmployeeManage.DAO.dll.config">
-      <publishTime>07/25/2019 14:07:23</publishTime>
+      <publishTime>08/27/2019 16:09:42</publishTime>
     </File>
     <File Include="bin/EmployeeManage.DAO.pdb">
-      <publishTime>08/02/2019 15:35:28</publishTime>
+      <publishTime>08/27/2019 16:10:50</publishTime>
     </File>
     <File Include="bin/EmployeeManage.Data.dll">
-      <publishTime>08/02/2019 15:35:28</publishTime>
+      <publishTime>08/27/2019 16:10:50</publishTime>
     </File>
     <File Include="bin/EmployeeManage.Data.dll.config">
-      <publishTime>07/25/2019 14:32:26</publishTime>
+      <publishTime>08/27/2019 16:01:32</publishTime>
     </File>
     <File Include="bin/EmployeeManage.Data.pdb">
-      <publishTime>08/02/2019 15:35:28</publishTime>
+      <publishTime>08/27/2019 16:10:50</publishTime>
     </File>
     <File Include="bin/EmployeeMange.API.dll">
-      <publishTime>08/02/2019 15:35:29</publishTime>
+      <publishTime>08/27/2019 16:10:50</publishTime>
     </File>
     <File Include="bin/EmployeeMange.API.pdb">
-      <publishTime>08/02/2019 15:35:29</publishTime>
+      <publishTime>08/27/2019 16:10:50</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>07/13/2019 16:30:18</publishTime>
@@ -268,7 +268,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/01/2018 12:17:18</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>02/01/2018 12:20:56</publishTime>
+      <publishTime>11/28/2018 13:04:24</publishTime>
     </File>
     <File Include="bin/System.Web.Http.dll">
       <publishTime>02/01/2018 12:17:40</publishTime>
@@ -277,22 +277,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/01/2018 12:19:26</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>02/01/2018 12:16:32</publishTime>
+      <publishTime>11/28/2018 12:59:46</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
       <publishTime>02/11/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>02/01/2018 12:16:56</publishTime>
+      <publishTime>11/28/2018 13:00:12</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>02/01/2018 12:20:56</publishTime>
+      <publishTime>11/28/2018 13:04:24</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>02/01/2018 12:20:56</publishTime>
+      <publishTime>11/28/2018 13:04:24</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>02/01/2018 12:20:56</publishTime>
+      <publishTime>11/28/2018 13:04:24</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>01/23/2014 13:57:34</publishTime>
@@ -397,7 +397,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/25/2019 10:28:23</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/02/2019 11:46:24</publishTime>
+      <publishTime>08/27/2019 16:10:51</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
-using EmployeeManage.DAO;
+﻿using EmployeeManage.DAO;
 using EmployeeManage.DAO.DAO;
+using System.Collections.Generic;
 
 namespace EmployeeManage.Data.Service
 {
